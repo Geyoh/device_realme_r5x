@@ -2,12 +2,12 @@
     {
         "repository":   "kernel_realme_r5x",
         "target_path":  "kernel/realme/r5x",
-        "branch":       "eleven"
+        "branch":       "Chisato"
     },
     {
         "repository":   "vendor_realme_r5x",
         "target_path":  "vendor/realme/r5x",
-        "branch":       "eleven",
-        "remote":       "pixel-devices-blobs"
+        "branch":       "Trinket",
+        "remote":       "Amritorock"
     }
 ]
