@@ -1,0 +1,3 @@
+device/realme/
+vendor/realme/
+kernel/realme/
