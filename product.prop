@@ -40,5 +40,4 @@ renderthread.skia.reduceopstasksplitting=true
 debug.renderengine.backend=skiaglthreaded
 
 # Elixir Stuff
-ro.elixir.maintainer=AMRITO
 org.elixir.device=Realme 5 Series
