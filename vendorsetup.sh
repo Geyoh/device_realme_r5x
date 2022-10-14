@@ -1,4 +1,7 @@
 # clone
+rm -rf frameworks/opt/telephony
+git clone --depth=1 https://github.com/Amritorock/frameworks_opt_telephony-1 -b Tiramisu frameworks/opt/telephony
+
 rm -rf device/realme/r5x
 git clone --depth=1 https://github.com/Amritorock/device_realme_r5x -b ELIXIR-13 device/realme/r5x
 

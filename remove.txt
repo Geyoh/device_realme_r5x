@@ -1,3 +1,4 @@
 device/realme/
 vendor/realme/
 kernel/realme/
+frameworks/opt/telephony
